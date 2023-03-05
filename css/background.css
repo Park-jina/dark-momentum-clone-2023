@@ -1,0 +1,7 @@
+.bgimg {
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    top: 0px;
+    z-index: -1;
+}

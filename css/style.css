@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+
+@import "reset.css";
+@import "background.css";
+@import "realtime.css";
+@import "todolist-form.css";
+@import "quotes.css";
+@import "input-form.css";
+@import "weather.css";
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+
+}
+
+.scroll::-webkit-scrollbar {
+    display: none;
+  }

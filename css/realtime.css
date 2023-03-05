@@ -1,0 +1,22 @@
+#real-time {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 250px;
+    font-size: 54px;
+    font-weight: 400;
+    opacity: 0.7;
+
+}
+
+#welcome-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-size: 100px;
+    top: 280px;
+    font-weight: 600;
+}
+

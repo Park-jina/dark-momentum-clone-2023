@@ -1,0 +1,35 @@
+.input-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 280px;
+}
+
+#input-form input:first-child {
+    width: 800px;
+    height: 100px;
+    background: transparent;
+    font-size: 80px;
+    border-style: none;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+}
+
+#input-form input:first-child::placeholder {
+    text-align: center;
+    color:  rgba(255, 255, 255, 0.5);
+}
+
+#input-form input:first-child:focus {
+    outline: none;
+}
+
+#input-form input:last-child {
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
